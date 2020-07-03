@@ -2,7 +2,7 @@
 
 *installed with helm v2
 
-*   Commands:
+*   Commands with explanations:
 
 helm version 
   #when you run above command it must show version-3…
