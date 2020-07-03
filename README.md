@@ -1,6 +1,6 @@
 # helm-wordpress
 
-*installed with helm v2
+
 
 *   Commands with explanations:
 
