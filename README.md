@@ -1,6 +1,9 @@
 # helm-wordpress
+
 *installed with helm v2
+
 *   Commands:
+
 helm version 
 #when you run above command it must show version-3…
 
