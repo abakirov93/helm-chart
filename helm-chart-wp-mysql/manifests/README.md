@@ -2,9 +2,9 @@
 
 The simple way to deploy with **kubectl** cli
 
-# Usage
+# how to use
 
-Execute next commands
+run below commands
 ```sh
 kubectl create -f original-manifests/namespace.yaml
 kubectl create -f original-manifests/mysql
