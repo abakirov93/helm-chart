@@ -1,4 +1,4 @@
-# helm-wordpress
+# helm-chart
 
 
 
